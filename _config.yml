@@ -3,3 +3,4 @@ highlighter: rouge
 permalink: /:title:output_ext
 exclude: [vendor]
 repository: imaidev/docs
+baseurl: "docs"
