@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-## The [xapi toolstack](http://www.xenproject.org/developers/teams/xapi.html)
+## dev.imaicloud.com 文档中心
 
 - manages clusters of Xen hosts with shared storage and networking
 - allows running VMs to be migrated between hosts (with or without storage)
